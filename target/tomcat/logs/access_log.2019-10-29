@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:18:33:44 +0200] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8888-exec-1 91
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:18:35:00 +0200] "GET /index0.html HTTP/1.1" 200 334 http-bio-8888-exec-4 11
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:18:35:05 +0200] "GET /VoteServlet?sport=Football HTTP/1.1" 200 281 http-bio-8888-exec-6 992
+0:0:0:0:0:0:0:1 - - [29/Oct/2019:18:37:22 +0200] "GET /VoteServlet?sport=Football HTTP/1.1" 200 281 http-bio-8888-exec-8 7

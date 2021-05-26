@@ -1,0 +1,10 @@
+
+\squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8°…Ãá-
+nsquid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8°…Ãá-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8°…Ãá-
+Bsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄ8°…Ãá-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8°…Ãá-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8°…Ãá-
+[squid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8°…Ãá-
+Esquid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ8°…Ãá-
+Bsquid:S1989"&Add a "try/catch" block for "forward".(ãìÄ8°…Ãá-
